@@ -1,4 +1,4 @@
-# StarcraftGosuBot
+# StarcraftGosuBot (Public Version)
 Starcraft Broodwar AI Bot by Korean Gosu. 세계 1위 스타크래프트 인공지능 목표.
 
 세계 1위 스타크래프트 인공지능 개발을 목표로 함께 추진해나갈 동지를 찾습니다.
@@ -19,10 +19,12 @@ Starcraft Broodwar AI Bot by Korean Gosu. 세계 1위 스타크래프트 인공�
 
 **우리는 하나씩 할수있는 것을 해나갈 것이고, 결국 해낼 것입니다.**
 
-## E-mail : tekseon.shin@gmail.com 
-## Mobile : 010-4723-8720
+* 7월1일 GosuBot v0.1 공개 예정
 
 # 주위에 조력자나 지원자가 될만한 분이 계시면 전달해주시길 부탁드립니다
+
+## E-mail : tekseon.shin@gmail.com 
+## Mobile : 010-4723-8720
 
 
 
