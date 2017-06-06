@@ -23,8 +23,8 @@ Starcraft Broodwar AI Bot by Korean Gosu. 세계 1위 스타크래프트 인공�
 
 # 주위에 조력자나 지원자가 될만한 분이 계시면 전달해주시길 부탁드립니다
 
-## E-mail : tekseon.shin@gmail.com 
-## Mobile : 010-4723-8720
+* **E-mail : tekseon.shin@gmail.com**
+* **Mobile : 010-4723-8720**
 
 
 
